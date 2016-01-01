@@ -1,0 +1,3 @@
+{"argv":["python3","-m","keyvaluekernel", "-f", "{connection_file}"],
+ "display_name":"KeyValue"
+}
